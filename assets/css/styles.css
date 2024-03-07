@@ -1256,7 +1256,7 @@ img {
       padding: 4rem 0;
       top: -40rem;
       left: 0%;
-      /* position: fixed; */
+      position: fixed;
       width: 100%;
       background-color: var(--clr-bg-light);
    box-shadow: 0 3px 5px 2px rgba(0, 0, 0, 0.2);
